@@ -18,11 +18,7 @@
 
 ### 💠 About Me
 
-I am a final-year **Computer Science & Information Technology** student at **PACE Institute of Technology and Sciences** (CGPA: 8.69)[cite: 11] with a strong foundation in software development, cybersecurity principles, and data classification pipelines[cite: 11, 12]. 
-
-* 🔭 **Currently Exploring:** Transformer models (BERT & GPT), Hugging Face datasets[cite: 12], network security[cite: 11], and vulnerability assessment[cite: 11].
-* 💡 **Core Focus:** Building intelligent text classification workflows, secure database systems, and dynamic web applications[cite: 11, 12].
-* 🎯 **Career Goal:** Seeking an entry-level software engineering or cybersecurity opportunity to apply my technical knowledge and gain practical industry experience[cite: 11].
+Final-year Computer Science and Information Technology student with a foundational understanding of Cybersecurity and Networking concepts, including TCP/IP protocols, UDP, network security principles, threat analysis, and vulnerability assessment. Familiar with programming languages such as Python, C and SQL. Interested in learning cybersecurity practices, identifying potential security risks, and developing skills to protect digital systems and sensitive information. Seeking an entry-level Cybersecurity opportunity to apply my knowledge and gain practical industry experience.
 
 ---
 
@@ -30,7 +26,7 @@ I am a final-year **Computer Science & Information Technology** student at **PAC
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **Interactive Music Visualizer** | Engineered a web application that transforms audio signals into dynamic, real-time visual animations with secure file upload handling and input validation[cite: 11]. | `HTML` `CSS` `JavaScript` `Web Audio API`[cite: 11] |
+| **Interactive Music Visualizer** | Engineered an interactive web application that transforms audio signals into dynamic, real-time visual animations with secure file handling, input validation, and user privacy protection. | `HTML` `CSS` `JavaScript` `Web Audio API` `Basic Cryptography` |
 
 ---
 
@@ -38,49 +34,58 @@ I am a final-year **Computer Science & Information Technology** student at **PAC
 
 | Repository | Description | Tech Stack / Tools |
 | :--- | :--- | :--- |
-| **[imbd-review-classification-project](https://github.com/keerthika7002/imbd-review-classification-project)** | Classifying IMDb movie reviews using the BERT model with datasets collected from Hugging Face[cite: 12]. | `Python` `BERT` `Hugging Face` `Jupyter Notebook`[cite: 12] |
-| **[BERT-review-repository](https://github.com/keerthika7002/BERT-review-repository)** | Text classification and processing pipeline utilizing Hugging Face transformer models[cite: 12]. | `Python` `Hugging Face` `Jupyter Notebook`[cite: 12] |
-| **[GPT-repository](https://github.com/keerthika7002/GPT-repository)** | Sequence classification and processing workflow leveraging GPT models through Hugging Face[cite: 12]. | `Python` `GPT` `Hugging Face` `Jupyter Notebook`[cite: 12] |
-| **[college_management_system](https://github.com/keerthika7002/college_management_system)** | Relational database system designed to manage institutional and student data efficiently using MySQL[cite: 11, 12]. | `MySQL` `SQL` `DBMS`[cite: 11] |
+| **[imbd-review-classification-project](https://github.com/keerthika7002/imbd-review-classification-project)** | Classifying IMDb movie reviews using the BERT model with datasets collected from Hugging Face. | `Python` `BERT` `Hugging Face` `Jupyter Notebook` |
+| **[BERT-review-repository](https://github.com/keerthika7002/BERT-review-repository)** | Text classification and processing pipeline utilizing Hugging Face transformer models. | `Python` `Hugging Face` `Jupyter Notebook` |
+| **[GPT-repository](https://github.com/keerthika7002/GPT-repository)** | Sequence classification and processing workflow leveraging GPT models through Hugging Face. | `Python` `GPT` `Hugging Face` `Jupyter Notebook` |
+| **[college_management_system](https://github.com/keerthika7002/college_management_system)** | Relational database system designed to manage institutional and student data efficiently using MySQL. | `MySQL` `SQL` `DBMS` |
 
 ---
 
-### ⚡ Technical Arsenal
+### 🛠️ Technical Proficiency
 
-| Category | Technologies & Skills |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=00599C) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=4479A1)[cite: 11] |
-| **AI & Data Science** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0F172A?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=F37626) `BERT` `GPT` `Data Analytics`[cite: 11, 12] |
-| **Databases & Core CS** | `MySQL` `DBMS` `Object-Oriented Programming (OOPs)`[cite: 11] |
-| **Cybersecurity & Networking** | `Cybersecurity Fundamentals` `Information Security` `Network Security Principles` `TCP/IP & UDP` `Threat Analysis`[cite: 11] |
-| **Web & Tools** | ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)[cite: 11] |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=00599C) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=4479A1) |
+| **Web Development** | ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) |
+| **AI & Data Science** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0F172A?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=F37626) `BERT` `GPT` `Data Analytics`|
+| **Databases & Core CS** | `MySQL` `Database Management Systems (DBMS)` `Object-Oriented Programming (OOPs)` |
+| **Cybersecurity & Networking** | `Cybersecurity Fundamentals` `Information Security` `User Authentication` `Basic Cryptography` `Data Integrity` `TCP/IP & UDP` `Network Security Protocols` |
+| **Tools & Soft Skills** | `Microsoft Office` `Excel` `Analytical Thinking` `Problem Solving` `Time Management` |
 
 ---
 
-### 🏆 Certifications & Training
+### 💼 Internship Experience
 
-* 🛡️ **Cybersecurity Job Simulation** — *Forage* (Nov 2026)[cite: 11]
-* ☁️ **AWS Data Engineering** — *EduSkills* (March 2026)[cite: 11]
-* 🗄️ **SQL and Database Management Systems** — *EduSkills* (March 2026)[cite: 11]
-* 💻 **Front-End Web Development** — *Simplilearn* (March 2026)[cite: 11]
-
----
-
-### 🌟 Soft Skills & Languages
-
-* **Core Soft Skills:** Analytical Thinking, Problem Solving, Time Management[cite: 11]
-* **Languages Known:** English, Telugu[cite: 11]
+**Web Development Intern | Code Tantra**
+* Gained hands-on experience developing front-end web components and interactive user interfaces
+* Applied modern web development concepts to practical projects using standard HTML, CSS, and JavaScript
+* Collaborated with peers to strengthen understanding of database integration and web functionality
 
 ---
 
-### 📊 GitHub Activity
+### 📜 Certifications
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=keerthika7002&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
-</div>
+* Cybersecurity Job Simulation – Forage (Nov 2026)
+* AWS Data Engineering & SQL and Database Management Systems – EduSkills (March 2026)
+* Front End Web Development – Simplilearn (March 2026)
 
-<br/>
+---
+
+### 🏆 Achievements
+
+* Actively participated in college and regional technical quiz & coding competitions
+* Maintained consistent academic excellence with an 8.69 CGPA in B.Tech CSIT coursework
+* Completed foundational cybersecurity and network security protocol certification tracks
+
+---
+
+### 🤝 Let's Connect
+
+I am always interested in learning new technologies, exploring cybersecurity concepts, developing innovative projects, and collaborating with others.
+
+* 📧 **Email:** [23kq1a0727.csit@gmail.com](mailto:23kq1a0727.csit@gmail.com)
+* 🔗 **LinkedIn:** [Keerthika Tadiparthy](https://linkedin.com/in/keerthika-tadiparthy)
 
 <p align="center">
-  <i>"Seeking an entry-level cybersecurity & software engineering opportunity to apply my knowledge and gain practical industry experience." 🚀</i>
+  <i>"Building secure solutions, one line of code at a time." 🚀</i>
 </p>
