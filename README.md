@@ -1,2 +1,2 @@
-# me-keerthika7002-
+# keerthika7002-
 My personal GitHub profile and developer portfolio.
