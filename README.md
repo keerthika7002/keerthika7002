@@ -1,145 +1,86 @@
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=6,12,20&height=180&section=header&text=Keerthika%20Tadiparthy&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-# Hey there! 👋 Welcome to my GitHub
-
-### 🎓 Final-Year CSIT Undergraduate | Aspiring Software Engineer
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/keerthika7002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keerthika-tadiparthy-412042348/)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Keerthika+Tadiparthy+%F0%9F%91%8B;Final-Year+CSIT+Undergraduate+%7C+CGPA%3A+8.69;AI%2C+NLP+%26+Cybersecurity+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" />
 </div>
 
----
-
-## 🌸 About Me
-
-Hi! I'm **Keerthika Tadiparthy**, a Computer Science and Information Technology undergraduate at PACE Institute of Technology and Sciences.
-
-- 🎓 B.Tech CSIT (2023–2027)
-- 💻 Interested in Software Development and Cybersecurity
-- 🔐 Exploring Network Security and Information Security
-- 📊 Interested in Data Analytics and Business Intelligence
-- 🌱 Continuously learning and improving my technical skills
-- 🎯 Aspiring Software Engineer
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Details |
-|---|---|---|
-| B.Tech CSIT | PACE Institute of Technology and Sciences | 2023–2027 |
-| Intermediate | Narayana Junior College | 2021–2023 |
-| SSC | BR High School | 2021 |
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <a href="https://linkedin.com/in/keerthika-tadiparthy">
+    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=06B6D4" alt="LinkedIn" />
+  </a>
+  <a href="mailto:23kq1a0727.csit@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=06B6D4" alt="Email" />
+  </a>
+  <a href="https://github.com/keerthika-t">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" alt="GitHub" />
+  </a>
 </p>
 
-### Tools & Technologies
+---
 
-<p>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 💠 About Me
 
-### Cybersecurity & Networking
+I am a final-year **Computer Science & Information Technology** student at **PACE Institute of Technology and Sciences** (CGPA: 8.69)[cite: 11] with a strong foundation in software development, cybersecurity principles, and data classification pipelines[cite: 11, 12]. 
 
-<p>
-<img src="https://img.shields.io/badge/TCP%2FIP-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UDP-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Information_Security-0F766E?style=for-the-badge"/>
-</p>
-
-### Libraries
-- Pandas
-- NumPy
-- Matplotlib
+* 🔭 **Currently Exploring:** Transformer models (BERT & GPT), Hugging Face datasets[cite: 12], network security[cite: 11], and vulnerability assessment[cite: 11].
+* 💡 **Core Focus:** Building intelligent text classification workflows, secure database systems, and dynamic web applications[cite: 11, 12].
+* 🎯 **Career Goal:** Seeking an entry-level software engineering or cybersecurity opportunity to apply my technical knowledge and gain practical industry experience[cite: 11].
 
 ---
 
-## 💼 Internship Experience
+### 🚀 Featured Projects
 
-**Web Development Internship — CodeTantra**
-
-- Gained practical exposure to web development.
-- Worked on an Interactive Music Visualizer project.
-- Applied programming and front-end development concepts.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Interactive Music Visualizer** | Engineered a web application that transforms audio signals into dynamic, real-time visual animations with secure file upload handling and input validation[cite: 11]. | `HTML` `CSS` `JavaScript` `Web Audio API`[cite: 11] |
 
 ---
 
-## 🚀 My Projects
+### 📂 GitHub Repositories
 
-### 🎵 1. Interactive Music Visualizer
-
-An interactive web application that visualizes audio frequencies in real time.
-
-**Technologies:** HTML, CSS, JavaScript, Web Audio API, Canvas
-
-[🔗 View Project](https://github.com/keerthika7002/Interactive-music-visualizer)
-
+| Repository | Description | Tech Stack / Tools |
+| :--- | :--- | :--- |
+| **[imbd-review-classification-project](https://github.com/keerthika7002/imbd-review-classification-project)** | Classifying IMDb movie reviews using the BERT model with datasets collected from Hugging Face[cite: 12]. | `Python` `BERT` `Hugging Face` `Jupyter Notebook`[cite: 12] |
+| **[BERT-review-repository](https://github.com/keerthika7002/BERT-review-repository)** | Text classification and processing pipeline utilizing Hugging Face transformer models[cite: 12]. | `Python` `Hugging Face` `Jupyter Notebook`[cite: 12] |
+| **[GPT-repository](https://github.com/keerthika7002/GPT-repository)** | Sequence classification and processing workflow leveraging GPT models through Hugging Face[cite: 12]. | `Python` `GPT` `Hugging Face` `Jupyter Notebook`[cite: 12] |
+| **[college_management_system](https://github.com/keerthika7002/college_management_system)** | Relational database system designed to manage institutional and student data efficiently using MySQL[cite: 11, 12]. | `MySQL` `SQL` `DBMS`[cite: 11] |
 
 ---
 
-## 🏆 Certifications & Training
+### ⚡ Technical Arsenal
 
-- Cybersecurity Job Simulation — Forage
-- AWS Data Engineering — EduSkills
-- SQL and Database Management Systems — EduSkills
-- Front-End Web Development — Simplilearn
-
----
-
-## 🌟 Strengths
-
-- Communication
-- Leadership
-- Problem Solving
-- Team Collaboration
-- Self-Motivation
-
-## 🌐 Languages
-
-- Telugu
-- English
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/C-0F172A?style=flat-square&logo=c&logoColor=00599C) ![SQL](https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=4479A1)[cite: 11] |
+| **AI & Data Science** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0F172A?style=flat-square&logo=huggingface&logoColor=FFD21E) ![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=F37626) `BERT` `GPT` `Data Analytics`[cite: 11, 12] |
+| **Databases & Core CS** | `MySQL` `DBMS` `Object-Oriented Programming (OOPs)`[cite: 11] |
+| **Cybersecurity & Networking** | `Cybersecurity Fundamentals` `Information Security` `Network Security Principles` `TCP/IP & UDP` `Threat Analysis`[cite: 11] |
+| **Web & Tools** | ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032)[cite: 11] |
 
 ---
 
-## 📈 GitHub Statistics
+### 🏆 Certifications & Training
+
+* 🛡️ **Cybersecurity Job Simulation** — *Forage* (Nov 2026)[cite: 11]
+* ☁️ **AWS Data Engineering** — *EduSkills* (March 2026)[cite: 11]
+* 🗄️ **SQL and Database Management Systems** — *EduSkills* (March 2026)[cite: 11]
+* 💻 **Front-End Web Development** — *Simplilearn* (March 2026)[cite: 11]
+
+---
+
+### 🌟 Soft Skills & Languages
+
+* **Core Soft Skills:** Analytical Thinking, Problem Solving, Time Management[cite: 11]
+* **Languages Known:** English, Telugu[cite: 11]
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=keerthika7002&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthika7002&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=keerthika7002&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=keerthika7002&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
 </div>
 
----
+<br/>
 
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-**Keep Learning | Keep Building | Keep Growing**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
-
-</div>
-
+<p align="center">
+  <i>"Seeking an entry-level cybersecurity & software engineering opportunity to apply my knowledge and gain practical industry experience." 🚀</i>
+</p>
