@@ -92,37 +92,6 @@ An interactive web application that visualizes audio frequencies in real time.
 
 [🔗 View Project](https://github.com/keerthika7002/Interactive-music-visualizer)
 
-### 🎓 2. College Management System
-
-A database-oriented project focused on managing college information.
-
-**Technologies:** MySQL, SQL, DBMS
-
-[🔗 View Project](https://github.com/keerthika7002/college_management_system)
-
-### 🤖 3. BERT Review Repository
-
-Exploring review classification using BERT and natural language processing.
-
-**Technologies:** Python, BERT, Hugging Face
-
-[🔗 View Project](https://github.com/keerthika7002/BERT-review-repository)
-
-### 🧠 4. GPT Repository
-
-Exploring GPT-based language models and text processing.
-
-**Technologies:** Python, GPT, Hugging Face
-
-[🔗 View Project](https://github.com/keerthika7002/GPT-repository)
-
-### 📊 5. IMDB Review Classification
-
-A project focused on movie review sentiment classification.
-
-**Technologies:** Python, BERT, NLP
-
-[🔗 View Project](https://github.com/keerthika7002/imbd-review-classification-project)
 
 ---
 
